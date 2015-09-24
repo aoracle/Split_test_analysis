@@ -8,9 +8,9 @@ The direct results from the split test invite design show that the invite, Varia
 
 Assuming that all variables mentioned below were considered while conducting this experiment it is recommended to replace the Baseline invite design with Variation 3 invite design immediately. I am 95% confident that this is the best choice out of the four Variations in comparison to the Baseline design. I am also 95% confident that the continued use of Variation 3 will have a conversion rate between 6% and 12% from viewers to paid quotes and thus being anywhere in between being a -13% to 115% improvement from the Baseline design. 
 
-##What questions would you ask me about my goals and methodology? 
-##Do you have any thoughts on the experimental design? 
-##What conclusions would you draw?
+> **What questions would you ask me about my goals and methodology?** 
+> **Do you have any thoughts on the experimental design?** 
+> **What conclusions would you draw?**
 
 ###I would ask you if the following variables were considered: 
 • **What time of day and or time of the week were the invite designs sent to providers?**

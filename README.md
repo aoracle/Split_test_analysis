@@ -1,4 +1,4 @@
-Galvanize Technical Assessment for Data Science Course
+#Galvanize Technical Assessment for Data Science Course
 
 Hello!
 Thanks for applying to the Data Science Immersive at Galvanize. Please complete the assessment here to accompany your application. Return your answers within 4 hours in an email with separate attachments (1 file per question) to admissions@galvanize.com with the email subject “Data Science Technical Assessment: YOUR NAME.”        
@@ -9,12 +9,12 @@ Galvanize
 
 ##Question 1:
 ###The challenge is to create a text content analyzer. This is a tool used by writers to find statistics such as word and sentence count on essays or articles they are writing.
-Write a Python program that analyzes input from a file and compiles statistics on it.
+**Write a Python program that analyzes input from a file and compiles statistics on it.**
 The program should output:
 1. The total word count
 2. The count of unique words
 3. The number of sentences
-Example output:
+*Example output:*
 ```
 Total word count: 468
 Unique words: 223
@@ -25,17 +25,18 @@ Sentences: 38
 2. The ability to find often used phrases (a phrase of 3 or more words used over 3 times)
 3. A list of words used, in order of descending frequency
 4. The ability to accept input from STDIN, or from a file specified on the command line.
-This question should be written in Python. Please submit a file (question1.py) with your code.
+
+*This question should be written in Python. Please submit a file (question1.py) with your code.*
 
 
 ##Question 2:
-
-Suppose we have 2 tables called Orders and Salesperson shown below:
+**Suppose we have 2 tables called Orders and Salesperson shown below:**
 
 ![char](two_tables.png "Two Tables: Orders and Salesperson")
 
-###Write a SQL query that retrieves the names of all salespeople that have more than 1 order from the tables above. You can assume that each salesperson only has one ID.
-Please submit a file question2.sql with your query.
+**Write a SQL query that retrieves the names of all salespeople that have more than 1 order from the tables above. You can assume that each salesperson only has one ID.**
+
+*Please submit a file question2.sql with your query.*
 
 
 ##Question 3 (Split-Test-Analysis):
@@ -62,9 +63,9 @@ Variation 4: 38 quotes out of 578 viewers
 
 **What's your interpretation of these results? What conclusions would you draw? What questions would you ask me about my goals and methodology? Do you have any thoughts on the experimental design? Please provide statistical justification for your conclusions and explain the choices you made in your analysis.**
 
-For the sake of your analysis, you can make whatever assumptions are necessary to make the experiment valid, so long as you state them. So, for example, your response might follow the form "I would ask you A, B and C about your goals and methodology. Assuming the answers are X, Y and Z, then here's my analysis of the results... If I were to run it again, I would consider changing...".
+For the sake of your analysis, you can make whatever assumptions are necessary to make the experiment valid, so long as you state them. So, for example, your response might follow the form *"I would ask you A, B and C about your goals and methodology. Assuming the answers are X, Y and Z, then here's my analysis of the results... If I were to run it again, I would consider changing...".*
 
-Here are the data in CSV form, if that's more convenient:
+**Here are the data in CSV form, if that's more convenient:**
 ```
 Bucket,Quotes,Views
 Baseline,32,595
